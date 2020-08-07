@@ -7,6 +7,8 @@ After receiving data you can use data to create your own real time monitoring so
 <br />
 
 <b>Maker sure to follow the Video tutorial on YouTube:<br />
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/93SpvPLL-_s/0.jpg)](https://www.youtube.com/watch?v=93SpvPLL-_s)
+
 https://youtu.be/93SpvPLL-_s<br /> </b>
 <br />
 Useful Links:<br />
