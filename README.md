@@ -15,3 +15,4 @@ Simulink-MAVLink v2.0 by aditya00j : https://github.com/aditya00j/simulink_mavli
 <br />
 <br />
 You can directly import this project from Mathworks as well.<br />
+[![View Pixhawk Simulink Instruments Mavlink Interface on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/78952-pixhawk-simulink-instruments-mavlink-interface)
